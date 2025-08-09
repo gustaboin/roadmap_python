@@ -1,48 +1,62 @@
-# Roadmap de Aprendizaje en Python
+# 🐍 Python Learning Roadmap
 
-<!-- Banner -->
+<!-- Badges -->
 <p align="center">
+  <img src=/logo2.png alt="logo2">
+  <br>
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License Badge">
 </p>
 
-Este repositorio documenta mi progreso de aprendizaje en Python, enfocado en análisis de datos, automatización y proyectos aplicados.
+This repository documents my Python learning journey, focused on **data analysis**, **automation**, and **practical projects**.
 
-## Estructura del Repositorio
+---
+
+## 📂 Repository Structure
 
 ```
 roadmap_python/
-├── 01_fundamentos/        # Ejercicios básicos
-├── 02_pandas_numpy/       # Limpieza y análisis de datos
-├── 03_automatizacion/     # Scripts de automatización
-├── 04_visualizacion/      # Dashboards y gráficos
-├── 05_sql_integration/    # Conexiones y queries
-├── 06_proyectos/          # Mini-proyectos aplicados
-│   ├── proyecto_ventas/
+├── 01_Fundaments/         # Basic Exercises
+├── 02_Numpy/              # Clean and analisys data
+├── 03_Pandas/
+├── 04_automatization/     # Scripts de automatization
+├── 05_visualization/      # Dashboards y graphics
+├── 06_sql_integration/    # Connections y queries
+├── 07_proyectss/          # Mini-projects
+│   ├── project_01/
 │   ├── scraping_precios/
-│   └── etc...
-├── roadmap_python.xlsx    # Cronograma semanal
-└── README.md              # Esta guía
+│   └── Project_99/
+├── roadmap_python.xlsx    #
+└── README.md              # This Guide
 ```
 
-## Objetivo
+---
 
-- Mejorar mis habilidades en Python orientadas al mundo laboral.
-- Aprender a integrar Python con SQL Server y otras bases de datos.
-- Desarrollar proyectos aplicados que puedan ser mostrados en entrevistas.
+## 🎯 Objectives
 
-## Tecnologías Clave
+- Improve my **Python skills** with a focus on real-world applications.
+- Learn how to integrate Python with **SQL Server** and other databases.
+- Build **practical projects** that can be showcased in professional interviews.
+
+---
+
+## 🛠️ Key Technologies
 
 - **Python 3**
 - **Pandas / NumPy**
 - **Matplotlib / Seaborn / Plotly**
 - **SQL Server**
-- **Automatización con scripts**
+- **Task automation with scripts**
 
-## Progreso
+---
 
-Este roadmap está organizado en módulos semanales, que pueden consultarse en `roadmap_python.xlsx`.
+## 📅 Progress Tracking
 
-## Contacto
+This roadmap is organized into **weekly modules** and tracked in the file:  
+`roadmap_python.xlsx`
 
-Si quieres dar feedback o sugerencias, puedes contactarme vía [LinkedIn](https://www.linkedin.com/in/guslgonzalez/) o revisar más proyectos en [mi GitHub](https://github.com/gustaboin).
+---
+
+## 📬 Contact
+
+If you’d like to provide feedback or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guslgonzalez/) or explore more projects on [my GitHub](https://github.com/gustaboin).
