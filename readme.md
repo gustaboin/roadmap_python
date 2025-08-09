@@ -1,5 +1,11 @@
 # Roadmap de Aprendizaje en Python
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python Badge">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License Badge">
+</p>
+
 Este repositorio documenta mi progreso de aprendizaje en Python, enfocado en análisis de datos, automatización y proyectos aplicados.
 
 ## Estructura del Repositorio
