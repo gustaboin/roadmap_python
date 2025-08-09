@@ -39,4 +39,4 @@ Este roadmap está organizado en módulos semanales, que pueden consultarse en `
 
 ## Contacto
 
-Si quieres dar feedback o sugerencias, puedes contactarme vía [LinkedIn](https://www.linkedin.com) o revisar más proyectos en [mi GitHub](https://github.com/gustaboin).
+Si quieres dar feedback o sugerencias, puedes contactarme vía [LinkedIn](https://www.linkedin.com/in/guslgonzalez/) o revisar más proyectos en [mi GitHub](https://github.com/gustaboin).
